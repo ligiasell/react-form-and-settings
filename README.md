@@ -1,2 +1,1 @@
-# react-form-and-settings
-Form and Settings using React.JS
+A simple account settings with form component using React.JS.
